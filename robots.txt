@@ -1,0 +1,18 @@
+User-agent: *
+Allow: /
+Disallow: /cgi-bin/
+Disallow: /search/
+Disallow: /error/
+Disallow: /temp/
+Disallow: /admin/
+
+# Allow all image crawling
+User-agent: Googlebot-Image
+Allow: /assets/images/
+
+# Allow Google specifically
+User-agent: Googlebot
+Allow: /
+
+# Sitemap location
+Sitemap: https://msdhawanengg.com/sitemap.xml 

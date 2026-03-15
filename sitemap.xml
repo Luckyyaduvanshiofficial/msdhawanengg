@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd
+        http://www.google.com/schemas/sitemap-image/1.1
+        http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd">
+
+  <!-- Homepage -->
+  <url>
+    <loc>https://msdhawanengg.com/</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://msdhawanengg.com/assets/images/hightension.jpeg</image:loc>
+      <image:title>M/S Dhawan Electrikal Engineering Services in Jaipur</image:title>
+      <image:caption>High-quality electrical engineering services in Jaipur</image:caption>
+    </image:image>
+  </url>
+
+  <!-- Main sections as separate URLs for Google to consider as important independent pages -->
+  <url>
+    <loc>https://msdhawanengg.com/#services</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+    <image:image>
+      <image:loc>https://msdhawanengg.com/assets/images/mcb.jpeg</image:loc>
+      <image:title>Electrical Services by M/S Dhawan Electrikal Engineering</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://msdhawanengg.com/#about</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://msdhawanengg.com/assets/images/worker.jpeg</image:loc>
+      <image:title>About M/S Dhawan Electrikal Engineering</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://msdhawanengg.com/#projects</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://msdhawanengg.com/assets/images/solarpanal.jpeg</image:loc>
+      <image:title>Electrical Engineering Projects by M/S Dhawan Electrikal</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://msdhawanengg.com/#contact</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <!-- Individual Service Pages -->
+  <url>
+    <loc>https://msdhawanengg.com/#electrical</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://msdhawanengg.com/assets/images/hightension.jpeg</image:loc>
+      <image:title>Electrical Engineering Services in Jaipur</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://msdhawanengg.com/#solar</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://msdhawanengg.com/assets/images/solarpanal.jpeg</image:loc>
+      <image:title>Solar Panel Installation Services in Jaipur</image:title>
+    </image:image>
+  </url>
+  
+  <url>
+    <loc>https://msdhawanengg.com/#network</loc>
+    <lastmod>2026-03-15</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+    <image:image>
+      <image:loc>https://msdhawanengg.com/assets/images/setIthernet.jpeg</image:loc>
+      <image:title>Network Engineering Services in Jaipur</image:title>
+    </image:image>
+  </url>
+</urlset> 
